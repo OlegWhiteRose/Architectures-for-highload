@@ -169,6 +169,24 @@
             <mxPoint x="452" y="715" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="IhCpI_MLEhV9grS_OZYk-52" value="Отчет" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="107" y="704" width="95" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="IhCpI_MLEhV9grS_OZYk-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IhCpI_MLEhV9grS_OZYk-53" target="IhCpI_MLEhV9grS_OZYk-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IhCpI_MLEhV9grS_OZYk-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="IhCpI_MLEhV9grS_OZYk-53" target="IhCpI_MLEhV9grS_OZYk-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IhCpI_MLEhV9grS_OZYk-53" value="составляется" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="235" y="691" width="102" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="IhCpI_MLEhV9grS_OZYk-56" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="208" y="697" width="21" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IhCpI_MLEhV9grS_OZYk-57" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="351.5" y="697" width="21" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
