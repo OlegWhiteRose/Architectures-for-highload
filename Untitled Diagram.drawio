@@ -57,7 +57,12 @@
           <mxGeometry x="423" y="-87" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="7UKbMZoOeEkKk-dEI4Lw-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="7UKbMZoOeEkKk-dEI4Lw-26" target="7UKbMZoOeEkKk-dEI4Lw-19" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="479" y="-86" />
+              <mxPoint x="457" y="-86" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="7UKbMZoOeEkKk-dEI4Lw-26" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.svgrepo.com/show/120988/office-worker.svg;" parent="1" vertex="1">
           <mxGeometry x="406.5" y="-239.39" width="100.19" height="100.19" as="geometry" />
