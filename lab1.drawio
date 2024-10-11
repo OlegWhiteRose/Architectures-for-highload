@@ -264,6 +264,15 @@
         <mxCell id="mx__GyVKSTr7Hvyb3Q5X-6" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="132" y="209" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="mx__GyVKSTr7Hvyb3Q5X-8" value="телефон" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="17" y="517" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mx__GyVKSTr7Hvyb3Q5X-10" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="mx__GyVKSTr7Hvyb3Q5X-8" target="IhCpI_MLEhV9grS_OZYk-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="5" y="522" as="sourcePoint" />
+            <mxPoint x="55" y="472" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
