@@ -303,6 +303,12 @@
         <mxCell id="mx__GyVKSTr7Hvyb3Q5X-21" value="&lt;u&gt;&amp;nbsp;id документа&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-6" y="75" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="mx__GyVKSTr7Hvyb3Q5X-22" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.65;entryY=0.973;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mx__GyVKSTr7Hvyb3Q5X-1" target="mx__GyVKSTr7Hvyb3Q5X-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="54" y="191" as="sourcePoint" />
+            <mxPoint x="104" y="141" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
