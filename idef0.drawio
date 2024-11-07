@@ -343,10 +343,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vJl4w6SuXQ1yaVWuZdyr-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vJl4w6SuXQ1yaVWuZdyr-89" target="vJl4w6SuXQ1yaVWuZdyr-90">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="320" y="1380" />
+              <mxPoint x="320" y="1470" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="vJl4w6SuXQ1yaVWuZdyr-89" value="Проверка возможности произвести транзакцию" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="1350" width="160" height="60" as="geometry" />
+          <mxGeometry x="120" y="1350" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="vJl4w6SuXQ1yaVWuZdyr-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vJl4w6SuXQ1yaVWuZdyr-90" target="vJl4w6SuXQ1yaVWuZdyr-98">
           <mxGeometry relative="1" as="geometry">
@@ -367,6 +372,15 @@
         </mxCell>
         <mxCell id="vJl4w6SuXQ1yaVWuZdyr-100" value="Новые значения атрибутов" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="510" y="1440" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vJl4w6SuXQ1yaVWuZdyr-102" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1410" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vJl4w6SuXQ1yaVWuZdyr-103" value="2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="1480" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vJl4w6SuXQ1yaVWuZdyr-104" value="3" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="760" y="1570" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
