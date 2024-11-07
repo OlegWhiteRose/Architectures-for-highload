@@ -334,6 +334,29 @@
             <mxPoint x="980" y="1910" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="vJl4w6SuXQ1yaVWuZdyr-87" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=default;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-20" y="1340" as="sourcePoint" />
+            <mxPoint x="120" y="1340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vJl4w6SuXQ1yaVWuZdyr-88" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;Транзакция&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vJl4w6SuXQ1yaVWuZdyr-87">
+          <mxGeometry x="-0.1443" y="-3" relative="1" as="geometry">
+            <mxPoint x="10" y="-23" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vJl4w6SuXQ1yaVWuZdyr-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vJl4w6SuXQ1yaVWuZdyr-89" target="vJl4w6SuXQ1yaVWuZdyr-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vJl4w6SuXQ1yaVWuZdyr-89" value="Проверка возможности произвести транзакцию" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="1310" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vJl4w6SuXQ1yaVWuZdyr-90" value="Расчет новых данных для вклада" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="1400" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vJl4w6SuXQ1yaVWuZdyr-93" value="Подтверждение" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="265" y="1320" width="130" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
