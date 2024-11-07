@@ -354,8 +354,8 @@
         <mxCell id="vJl4w6SuXQ1yaVWuZdyr-90" value="Расчет новых данных для вклада" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="1400" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vJl4w6SuXQ1yaVWuZdyr-93" value="Подтверждение" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="265" y="1320" width="130" height="20" as="geometry" />
+        <mxCell id="vJl4w6SuXQ1yaVWuZdyr-93" value="Статус&amp;nbsp;&lt;div&gt;одобрения&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1310" width="130" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
