@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.3">
   <diagram name="Страница — 1" id="gGMcaVFbIQ1Z7cdC57Me">
-    <mxGraphModel dx="1830" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="877" dy="252" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -370,9 +370,14 @@
         <mxCell id="vJl4w6SuXQ1yaVWuZdyr-93" value="Статус&amp;nbsp;&lt;div&gt;одобрения&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="250" y="1350" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="vJl4w6SuXQ1yaVWuZdyr-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vJl4w6SuXQ1yaVWuZdyr-98">
+        <mxCell id="vJl4w6SuXQ1yaVWuZdyr-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="960" y="1560" as="targetPoint" />
+            <mxPoint x="960" y="1579.5" as="targetPoint" />
+            <mxPoint x="780" y="1579.5344827586205" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="870" y="1579" />
+              <mxPoint x="960" y="1580" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="vJl4w6SuXQ1yaVWuZdyr-107" value="Информация о&amp;nbsp;&lt;div&gt;проделанных изменениях&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vJl4w6SuXQ1yaVWuZdyr-106">
@@ -470,6 +475,17 @@
               <mxPoint x="340" y="1560" />
               <mxPoint x="200" y="1560" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vJl4w6SuXQ1yaVWuZdyr-124" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="780" y="1540" as="sourcePoint" />
+            <mxPoint x="950" y="1540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vJl4w6SuXQ1yaVWuZdyr-125" value="Обновленные данные вклада" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vJl4w6SuXQ1yaVWuZdyr-124">
+          <mxGeometry x="0.1821" y="-2" relative="1" as="geometry">
+            <mxPoint x="-11" y="-12" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
