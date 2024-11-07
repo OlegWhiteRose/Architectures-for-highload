@@ -322,9 +322,6 @@
             <mxPoint x="980" y="1119" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vJl4w6SuXQ1yaVWuZdyr-84" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-60" y="1200" width="1040" height="750" as="geometry" />
-        </mxCell>
         <mxCell id="vJl4w6SuXQ1yaVWuZdyr-85" value="А2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-60" y="1920" width="60" height="30" as="geometry" />
         </mxCell>
@@ -351,11 +348,25 @@
         <mxCell id="vJl4w6SuXQ1yaVWuZdyr-89" value="Проверка возможности произвести транзакцию" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="120" y="1350" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vJl4w6SuXQ1yaVWuZdyr-90" value="Расчет новых данных для полей вклада" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vJl4w6SuXQ1yaVWuZdyr-99" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="vJl4w6SuXQ1yaVWuZdyr-90" target="vJl4w6SuXQ1yaVWuZdyr-98">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="590" y="1470" />
+              <mxPoint x="590" y="1560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vJl4w6SuXQ1yaVWuZdyr-90" value="Расчет одобренных операций" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="1440" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vJl4w6SuXQ1yaVWuZdyr-93" value="Статус&amp;nbsp;&lt;div&gt;одобрения&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="250" y="1350" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="vJl4w6SuXQ1yaVWuZdyr-98" value="Изменение атрибутов вклада" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="1530" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vJl4w6SuXQ1yaVWuZdyr-100" value="Новые значения атрибутов" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="1440" width="130" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
