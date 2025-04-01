@@ -1,9 +1,132 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="Страница — 1" id="Qpv2qpPAU2b6HIgPkYau">
-    <mxGraphModel>
+    <mxGraphModel dx="3985" dy="1930" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="fUNsuGt8pgFX1ACfi0ab-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fUNsuGt8pgFX1ACfi0ab-1" target="fUNsuGt8pgFX1ACfi0ab-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fUNsuGt8pgFX1ACfi0ab-1" value="Начало" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="3" width="96" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="fUNsuGt8pgFX1ACfi0ab-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fUNsuGt8pgFX1ACfi0ab-2" target="fUNsuGt8pgFX1ACfi0ab-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-232" y="197.39999999999998" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fUNsuGt8pgFX1ACfi0ab-2" value="Вывод сообщения&lt;br&gt;&#39;Press ! to exit: &#39;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-292" y="110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fUNsuGt8pgFX1ACfi0ab-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fUNsuGt8pgFX1ACfi0ab-5" target="fUNsuGt8pgFX1ACfi0ab-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-232" y="300.6" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fUNsuGt8pgFX1ACfi0ab-5" value="Ввод и считывание символа GETCH" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-292" y="205" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fUNsuGt8pgFX1ACfi0ab-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fUNsuGt8pgFX1ACfi0ab-7" target="fUNsuGt8pgFX1ACfi0ab-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fUNsuGt8pgFX1ACfi0ab-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fUNsuGt8pgFX1ACfi0ab-7" target="fUNsuGt8pgFX1ACfi0ab-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fUNsuGt8pgFX1ACfi0ab-7" value="Символ = &#39;!&#39;?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-293.5" y="313" width="123" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fUNsuGt8pgFX1ACfi0ab-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fUNsuGt8pgFX1ACfi0ab-10" target="fUNsuGt8pgFX1ACfi0ab-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fUNsuGt8pgFX1ACfi0ab-10" value="Очистка экрана CLRSCR" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-292" y="441" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fUNsuGt8pgFX1ACfi0ab-13" value="Нет" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-232" y="389" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fUNsuGt8pgFX1ACfi0ab-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fUNsuGt8pgFX1ACfi0ab-15" target="fUNsuGt8pgFX1ACfi0ab-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fUNsuGt8pgFX1ACfi0ab-15" value="Установка счетчика CX = 20" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-292" y="533" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fUNsuGt8pgFX1ACfi0ab-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fUNsuGt8pgFX1ACfi0ab-17" target="fUNsuGt8pgFX1ACfi0ab-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fUNsuGt8pgFX1ACfi0ab-17" value="Ввод символа BL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-292" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fUNsuGt8pgFX1ACfi0ab-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fUNsuGt8pgFX1ACfi0ab-19" target="fUNsuGt8pgFX1ACfi0ab-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fUNsuGt8pgFX1ACfi0ab-19" value="Вывод &#39;-&#39;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-121" y="441" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fUNsuGt8pgFX1ACfi0ab-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fUNsuGt8pgFX1ACfi0ab-21" target="fUNsuGt8pgFX1ACfi0ab-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fUNsuGt8pgFX1ACfi0ab-21" value="Конвертация символа в HEX" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-121" y="533" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fUNsuGt8pgFX1ACfi0ab-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fUNsuGt8pgFX1ACfi0ab-24" target="fUNsuGt8pgFX1ACfi0ab-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fUNsuGt8pgFX1ACfi0ab-24" value="Вывод &#39;h&#39;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-121" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fUNsuGt8pgFX1ACfi0ab-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fUNsuGt8pgFX1ACfi0ab-26" target="fUNsuGt8pgFX1ACfi0ab-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fUNsuGt8pgFX1ACfi0ab-26" value="Перенос строки" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="52" y="441" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fUNsuGt8pgFX1ACfi0ab-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fUNsuGt8pgFX1ACfi0ab-27" target="fUNsuGt8pgFX1ACfi0ab-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fUNsuGt8pgFX1ACfi0ab-27" value="Переход к следующему символу" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="52" y="531" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fUNsuGt8pgFX1ACfi0ab-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fUNsuGt8pgFX1ACfi0ab-28" target="fUNsuGt8pgFX1ACfi0ab-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fUNsuGt8pgFX1ACfi0ab-28" value="Уменьшение CX" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="52" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fUNsuGt8pgFX1ACfi0ab-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fUNsuGt8pgFX1ACfi0ab-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-231" y="603" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-377" y="745" />
+              <mxPoint x="-377" y="603" />
+              <mxPoint x="-234" y="603" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fUNsuGt8pgFX1ACfi0ab-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fUNsuGt8pgFX1ACfi0ab-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-231" y="85" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="112" y="799" />
+              <mxPoint x="207" y="799" />
+              <mxPoint x="207" y="85" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fUNsuGt8pgFX1ACfi0ab-33" value="CX != &#39;0&#39;?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="61.5" y="705" width="101" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fUNsuGt8pgFX1ACfi0ab-37" value="Да" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="29" y="717" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fUNsuGt8pgFX1ACfi0ab-39" value="Нет" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="118" y="775" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fUNsuGt8pgFX1ACfi0ab-41" value="Конец" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-121" y="330" width="96" height="59" as="geometry" />
+        </mxCell>
+        <mxCell id="fUNsuGt8pgFX1ACfi0ab-43" value="Да" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-178" y="326" width="30" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
